@@ -42,8 +42,8 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{43C985F3-49B3-42F5-A367-7C53DDC800D8}</Property>
 				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">Application5.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/Builds/NI_AB_PROJECTNAME/results/Application5.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">ApplicationNew.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Builds/NI_AB_PROJECTNAME/results/ApplicationNew.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -51,7 +51,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Builds/NI_AB_PROJECTNAME/results/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{C5C4C012-D8D6-46BC-BF0F-75097421FD89}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{24A633C8-4A12-4A10-9F03-C54C29F85C97}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Add.vi</Property>
@@ -64,7 +64,7 @@
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2019 National Instruments</Property>
 				<Property Name="TgtF_productName" Type="Str">myBuildSpec</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{74AB941D-67A1-4F6F-874D-E58EA2239942}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">Application5.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">ApplicationNew.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
