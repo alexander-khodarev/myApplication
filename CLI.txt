@@ -1,0 +1,1 @@
+LabVIEWCLI.exe -OperationName ExecuteBuildSpec -ProjectPath "C:\Labview Tests\myApplication\source\Jenkins.lvproj" -TargetName "My Computer" -BuildSpecName myBuildSpec
